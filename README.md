@@ -1,2 +1,2 @@
-# forn4side
+# form4side
 A formulator for PySide6
